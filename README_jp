@@ -1,0 +1,10 @@
+2018/01/24
+MR-RePair: maximal repeatsを利用した文法生成を行うrepairの変種
+下の吉田君のre-pair-VF-bestをベースに作成
+CPM2018投稿用
+
+
+re-pair-VF-best:
+repairアルゴリズムを用いたVF符号--局所最適解に捕まらずに最良のところを見つける
+Shirou Maruyamaさんのソースコードを改変して作成した．
+DEIM 2012
